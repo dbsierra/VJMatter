@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 9842ef2cde561a24b8ab34e70b4f6bba
+timeCreated: 1501049623
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box
+    100002: Diamond
+    100004: Disc
+    100006: Dodecahedron
+    100008: Icosahedron
+    100010: //RootNode
+    100012: Pyramid
+    100014: Rubix
+    100016: Sphere
+    100018: Square
+    100020: TallBox
+    100022: Teapot
+    100024: Torus
+    100026: Triangle
+    100028: Tube
+    400000: Box
+    400002: Diamond
+    400004: Disc
+    400006: Dodecahedron
+    400008: Icosahedron
+    400010: //RootNode
+    400012: Pyramid
+    400014: Rubix
+    400016: Sphere
+    400018: Square
+    400020: TallBox
+    400022: Teapot
+    400024: Torus
+    400026: Triangle
+    400028: Tube
+    2300000: Box
+    2300002: Diamond
+    2300004: Disc
+    2300006: Dodecahedron
+    2300008: Icosahedron
+    2300010: Pyramid
+    2300012: Rubix
+    2300014: Sphere
+    2300016: Square
+    2300018: TallBox
+    2300020: Teapot
+    2300022: Torus
+    2300024: Triangle
+    2300026: Tube
+    3300000: Box
+    3300002: Diamond
+    3300004: Disc
+    3300006: Dodecahedron
+    3300008: Icosahedron
+    3300010: Pyramid
+    3300012: Rubix
+    3300014: Sphere
+    3300016: Square
+    3300018: TallBox
+    3300020: Teapot
+    3300022: Torus
+    3300024: Triangle
+    3300026: Tube
+    4300000: Torus
+    4300002: Pyramid
+    4300004: Diamond
+    4300006: Icosahedron
+    4300008: Dodecahedron
+    4300010: Teapot
+    4300012: Tube
+    4300014: Box
+    4300016: Sphere
+    4300018: Triangle
+    4300020: Square
+    4300022: Disc
+    4300024: TallBox
+    4300026: Rubix
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
